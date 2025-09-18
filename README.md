@@ -1,11 +1,18 @@
-<h2>Hi 👋 , I'm Beyza!</h2> 
-<img align="right" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="230" style="margin-left: 20px; margin-bottom: 10px;">
+<table>
+<tr>
+<td>
 
-<p>
+<h2>Hi 👋 , I'm Beyza!</h2>
 I am a PhD student at the University of Burgundy (Université de Bourgogne) in Dijon, France, specializing in the segmentation of anatomical regions and the detection of points of interest using deep learning. My research is conducted in collaboration with NeuroGemm and the ICMUB laboratory.  
 <br><br>
 <strong>Specialty:</strong> Computer Vision & Medical Imaging
-</p>
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="230">
+</td>
+</tr>
+</table>
 
 
 I’m an Erasmus Mundus master scholar in Medical Imaging and Applications (MAIA) Program.
