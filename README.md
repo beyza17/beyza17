@@ -2,7 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="230">
 
 
-### Biomedical Engineer & Medical Machine Learning Engineer & Data & MLOps Engineer
+### I am a PhD student at the University of Burgundy (Université de Bourgogne) in Dijon,
+France, specializing in the segmentation of anatomical regions and the detection of
+points of interest using deep learning. My research is conducted in collaboration with
+NeuroGemm and the ICMUB laboratory.
 Specialty: Computer Vision & Medical Imaging
 
 I’m an Erasmus Mundus master scholar in Medical Imaging and Applications (MAIA) Program.
