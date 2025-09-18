@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="230">
 
 
-### I am a PhD student at the University of Burgundy (Université de Bourgogne) in Dijon,
+I am a PhD student at the University of Burgundy (Université de Bourgogne) in Dijon,
 France, specializing in the segmentation of anatomical regions and the detection of
 points of interest using deep learning. My research is conducted in collaboration with
 NeuroGemm and the ICMUB laboratory.
