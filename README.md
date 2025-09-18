@@ -3,7 +3,8 @@
 
 
 I am a PhD student at the University of Burgundy (Université de Bourgogne) in Dijon,
-France, specializing in the segmentation of anatomical regions and the detection of
+France, 
+specializing in the segmentation of anatomical regions and the detection of
 points of interest using deep learning. My research is conducted in collaboration with
 NeuroGemm and the ICMUB laboratory.
 
