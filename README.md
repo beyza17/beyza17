@@ -15,8 +15,6 @@ I am a PhD student at the University of Burgundy (Université de Bourgogne) in D
 </table>
 
 
-I’m an Erasmus Mundus master scholar in Medical Imaging and Applications (MAIA) Program.
-
 <img src="https://media.giphy.com/media/n8Rp8y7kxeqqHWlIe6/giphy.gif" width="60"> <b>You can contact with me by clicking the links below</b> <em>😊</em>
 
 <p>
