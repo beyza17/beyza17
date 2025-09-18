@@ -15,7 +15,7 @@ I am a PhD student at the University of Burgundy (Université de Bourgogne) in D
 </table>
 
 
-<img src="[https://media.giphy.com/media/n8Rp8y7kxeqqHWlIe6/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb241azV5azAwNTJpa251NmM0NWNjcXNjamVpdWwwd3phM2Jobmh5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r14mSsWOTdlPQqqONs/giphy.gif)" width="60"> <b>You can contact with me by clicking the links below</b> <em>😊</em>
+<img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FpNzVpZjltbWpjcGZvZ3I1cHdsaWlkMmNrcW80ajhoYzU1NTgzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r14mSsWOTdlPQqqONs/giphy.gif]" width="60"> <b>You can contact with me by clicking the links below</b> <em>😊</em>
 
 <p>
 
